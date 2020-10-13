@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 import sum from '../code/sum'
 
 test('adds 1 + 2 to equal 3', () => {
