@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.imooc.com/coding-315/leetcode.git"
+    "url": "https://github.com/PockyCake/leetcode"
   },
   "keywords": [
     "leetcode"
   ],
-  "author": "cuc_ygh@163.com",
+  "author": "donna",
   "license": "Apache-2.0",
   "dependencies": {
     "@babel/core": "^7.1.2",
